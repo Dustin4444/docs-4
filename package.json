@@ -16,7 +16,7 @@
     "constructs": "10.3.0",
     "retypeapp": "^3.1.0",
     "sst": "^2.40.6",
-    "typescript": "^5.1.6"
+    "typescript": "^5.9.3"
   },
   "workspaces": [
     "packages/*"
